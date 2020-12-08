@@ -1,0 +1,6 @@
+name: ConsoleLogEventTest
+version: ${project.version}
+main: me.bingorufus.consolelogeventtest.ConsoleLogEventTest
+api-version: 1.16
+depend:
+  - ConsoleLogEvent

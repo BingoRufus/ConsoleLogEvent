@@ -1,0 +1,7 @@
+name: ConsoleLogEvent
+version: ${project.version}
+main: me.bingorufus.consolelogevent.ConsoleLogEventPlugin
+load: STARTUP
+authors: [ BingoRufus ]
+api-version: 1.13
+description: Adds ConsoleLogEvent
